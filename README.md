@@ -11,7 +11,7 @@ First simple practice exercise using gitflow.
 To get a local copy up and running follow these simple example steps.
 
 - In your terminal, move the location you want to clone the project.
-- Enter git clone < git@github.com:kemigabocatherine/First-gitflow-use.git >
+- Enter git clone git@github.com:kemigabocatherine/First-gitflow-use.git
 - cd to the repo.
 - Open the project and use it as desired
 - **PS:** Use gitflow
